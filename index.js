@@ -1,3 +1,0 @@
-<script>
-	//cool stuff
-</script>
